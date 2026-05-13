@@ -1,0 +1,15 @@
+{
+  "name": "agent-scaler",
+  "owner": { "name": "Joshua Fink" },
+  "metadata": {
+    "description": "Marketplace for agent-scaler plugins.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "scalable-ts",
+      "source": "./plugins/scalable-ts",
+      "description": "Agents that enforce best practices for scalable TypeScript projects: a lightweight review harness that dispatches to deep concern skills (module boundaries, type hygiene, build/perf, async & errors, 100% coverage), plus a planning companion that bakes the same constraints into plans before code is written."
+    }
+  ]
+}
