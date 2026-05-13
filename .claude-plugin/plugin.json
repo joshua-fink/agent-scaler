@@ -1,0 +1,8 @@
+{
+  "name": "scalable-ts",
+  "version": "0.1.0",
+  "description": "Agents that enforce best practices for scalable TypeScript projects: a lightweight review harness that dispatches to deep concern skills (module boundaries, type hygiene, build/perf, async & errors, 100% coverage), plus a planning companion that bakes the same constraints into plans before code is written.",
+  "author": { "name": "Joshua Fink" },
+  "license": "MIT",
+  "keywords": ["typescript", "code-review", "scalability", "eslint", "best-practices"]
+}

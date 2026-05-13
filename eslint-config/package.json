@@ -1,0 +1,15 @@
+{
+  "name": "@scalable-ts/eslint-config",
+  "version": "0.1.0",
+  "description": "Deterministic ESLint flat-config encoding the mechanical half of scalable-TypeScript best practices. Shipped inside the scalable-ts Claude Code plugin; usable standalone.",
+  "type": "module",
+  "main": "index.js",
+  "peerDependencies": {
+    "eslint": ">=9",
+    "typescript": ">=5",
+    "typescript-eslint": ">=8",
+    "eslint-plugin-import": ">=2.31",
+    "eslint-import-resolver-typescript": ">=3.6"
+  },
+  "license": "MIT"
+}
